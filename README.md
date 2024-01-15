@@ -1,0 +1,2 @@
+# JavaScript mini projects 
+- animation
